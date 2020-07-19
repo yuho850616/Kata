@@ -1,0 +1,8 @@
+C:\Users\john.ho73\Documents\GitHub\Kata\Kata2\DeadAntsTests\bin\Debug\DeadAntsTests.dll
+C:\Users\john.ho73\Documents\GitHub\Kata\Kata2\DeadAntsTests\bin\Debug\DeadAntsTests.pdb
+C:\Users\john.ho73\Documents\GitHub\Kata\Kata2\DeadAntsTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\john.ho73\Documents\GitHub\Kata\Kata2\DeadAntsTests\obj\Debug\DeadAntsTests.csprojAssemblyReference.cache
+C:\Users\john.ho73\Documents\GitHub\Kata\Kata2\DeadAntsTests\obj\Debug\DeadAntsTests.csproj.CoreCompileInputs.cache
+C:\Users\john.ho73\Documents\GitHub\Kata\Kata2\DeadAntsTests\obj\Debug\DeadAntsTests.csproj.CopyComplete
+C:\Users\john.ho73\Documents\GitHub\Kata\Kata2\DeadAntsTests\obj\Debug\DeadAntsTests.dll
+C:\Users\john.ho73\Documents\GitHub\Kata\Kata2\DeadAntsTests\obj\Debug\DeadAntsTests.pdb
