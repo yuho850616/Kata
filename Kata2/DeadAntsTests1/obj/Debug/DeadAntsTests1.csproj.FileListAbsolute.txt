@@ -1,0 +1,2 @@
+C:\Users\john.ho73\Documents\GitHub\Kata\Kata2\DeadAntsTests1\obj\Debug\DeadAntsTests1.csprojAssemblyReference.cache
+C:\Users\john.ho73\Documents\GitHub\Kata\Kata2\DeadAntsTests1\obj\Debug\DeadAntsTests1.csproj.CoreCompileInputs.cache
