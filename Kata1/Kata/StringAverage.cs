@@ -6,37 +6,37 @@ using System.Threading.Tasks;
 
 public class Kata
 {
-    public static string AverageString(string str)
+    public string AverageString(string str)
     {
         if (string.IsNullOrEmpty(str))
         {
             return "n/a";
         }
-        List<string> myLists = new List<string>();
-        myLists.Add("zero");
-        myLists.Add("one");
-        myLists.Add("two");
-        myLists.Add("three");
-        myLists.Add("four");
-        myLists.Add("five");
-        myLists.Add("six");
-        myLists.Add("seven");
-        myLists.Add("eight");
-        myLists.Add("nine");
+        List<string> numStringLists = new List<string>();
+        numStringLists.Add("zero");
+        numStringLists.Add("one");
+        numStringLists.Add("two");
+        numStringLists.Add("three");
+        numStringLists.Add("four");
+        numStringLists.Add("five");
+        numStringLists.Add("six");
+        numStringLists.Add("seven");
+        numStringLists.Add("eight");
+        numStringLists.Add("nine");
         string[] input = str.Split(' ');
         int sum = 0;
         int count = input.Length;
-        foreach (var i in input)
+        foreach (var digit in input)
         {
-            if (myLists.Contains(i))
+            if (numStringLists.Contains(digit))
             {
-                sum += myLists.FindIndex(a => a.Contains(i));
+                sum += numStringLists.FindIndex(a => a.Contains(digit));
             }
             else
             {
                 return "n/a";
             }
         }
-        return myLists[sum / count];
+        return numStringLists[sum / count];
     }
 }
