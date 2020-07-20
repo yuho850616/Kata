@@ -7,5 +7,8 @@ C:\Users\john.ho73\source\repos\Kata\Kata\obj\Debug\Kata.exe
 C:\Users\john.ho73\source\repos\Kata\Kata\obj\Debug\Kata.pdb
 C:\Users\john.ho73\Documents\GitHub\Kata\Kata1\Kata\obj\Debug\Kata.csprojAssemblyReference.cache
 C:\Users\john.ho73\Documents\GitHub\Kata\Kata1\Kata\obj\Debug\Kata.csproj.CoreCompileInputs.cache
-C:\Users\john.ho73\Documents\GitHub\Kata\Kata1\Kata\obj\Debug\Kata.exe
 C:\Users\john.ho73\Documents\GitHub\Kata\Kata1\Kata\obj\Debug\Kata.pdb
+C:\Users\john.ho73\Documents\GitHub\Kata\Kata1\Kata\bin\Debug\Kata.dll.config
+C:\Users\john.ho73\Documents\GitHub\Kata\Kata1\Kata\bin\Debug\Kata.dll
+C:\Users\john.ho73\Documents\GitHub\Kata\Kata1\Kata\bin\Debug\Kata.pdb
+C:\Users\john.ho73\Documents\GitHub\Kata\Kata1\Kata\obj\Debug\Kata.dll
