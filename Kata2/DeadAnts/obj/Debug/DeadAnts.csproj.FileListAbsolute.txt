@@ -1,4 +1,0 @@
-C:\Users\john.ho73\Documents\GitHub\Kata2\DeadAnts\obj\Debug\DeadAnts.csprojAssemblyReference.cache
-C:\Users\john.ho73\Documents\GitHub\Kata2\DeadAnts\obj\Debug\DeadAnts.csproj.CoreCompileInputs.cache
-C:\Users\john.ho73\Documents\GitHub\Kata\Kata2\DeadAnts\obj\Debug\DeadAnts.csprojAssemblyReference.cache
-C:\Users\john.ho73\Documents\GitHub\Kata\Kata2\DeadAnts\obj\Debug\DeadAnts.csproj.CoreCompileInputs.cache
